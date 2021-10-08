@@ -1,0 +1,7 @@
+Number of columns in the data source is: 7
+Total number of records in the table is: 1762
+No. of Empty columns: 1
+Completeness percent is: 85.71%
+Completeness excluding Empty columns percent is: 100.00%
+Uniqueness percent is: 100.00%
+Health Score is: 92.86%
